@@ -21,5 +21,7 @@
 ## Общие рекомендации
 
 Поменять тип double на float: 
-float regularBonus = 0.3F;
-float specialBonus = 0.6F;
+
+float regularBonus = 0.3F
+
+float specialBonus = 0.6F
